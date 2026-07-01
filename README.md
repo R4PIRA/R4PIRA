@@ -13,4 +13,8 @@ Recent works
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=E5D3FF)
 
-Follow me
+### Follow me
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/lemmesl66p)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](#)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lemmesl66p)
