@@ -1,4 +1,4 @@
-![Header](https://github.com/R4PIRA/R4PIRA/blob/main/assets/monkey.gif)
+![Header](https://github.com/R4PIRA/R4PIRA/blob/main/assets/hello.gif)
 
 ## I'm a beginner QA engineer
 
