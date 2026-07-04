@@ -19,7 +19,7 @@ I like to solve complex problems and bring the final product to ideal.
 </td>
 <td width="40%">
 <div align="center">
-<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/stepik-certificate-eng.pdf" width="400" alt="Certificate" />
+<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate.jpg" width="400" alt="Certificate" />
 </div>
 </td>
 </tr>
@@ -31,7 +31,7 @@ I like to solve complex problems and bring the final product to ideal.
 
 <div align="center">
 
-### 🎨 Языки программирования
+### 🎨 Programming languages
 
 ![Sql](https://img.shields.io/badge/sql-3776AB?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -39,7 +39,7 @@ I like to solve complex problems and bring the final product to ideal.
 ![JavaScript](https://img.shields.io/badge/javascript-239120?style=for-the-badge\&logo=javascript\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
-### 🧪 Инструменты тестирования
+### 🧪 Testing tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-43B02A?style=for-the-badge\&logo=soapui\&logoColor=white)
@@ -48,7 +48,7 @@ I like to solve complex problems and bring the final product to ideal.
 ![Pict](https://img.shields.io/badge/Pict-3776AB?style=for-the-badge\&logo=pict\&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-3776AB?style=for-the-badge\&logo=devtools\&logoColor=white)
 
-### 🏗️ Инструменты и платформы
+### 🏗️ Tools and Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
