@@ -11,15 +11,15 @@
 <table>
 <tr>
 <td width="60%">
-I`m a manual QA web engineer.<br>
-I always strive to learn something new and apply the acquired knowledge at work.<br>
-My best soft skills is personal and creative skills.<br>
-I like to solve complex problems and bring the final product to ideal.
+ツ I`m a manual QA web engineer.<br>
+ツ I always strive to learn something new and apply the acquired knowledge at work.<br>
+ツ My best soft skills is personal and creative skills.<br>
+ツ I like to solve complex problems and bring the final product to ideal.
 
 </td>
 <td width="40%">
 <div align="center">
-<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate.jpg" width="400" alt="Certificate" />
+<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate.jpg" width="700" alt="Certificate" />
 </div>
 </td>
 </tr>
@@ -78,6 +78,7 @@ I like to solve complex problems and bring the final product to ideal.
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@lemmesl66p-blue?style=for-the-badge&logo=telegram)](https://t.me/lemmesl66p)
+[![Email](https://img.shields.io/badge/Email-lemmesl66p@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lemmesl66p@gmail.com)
 
 </div>
 
