@@ -19,7 +19,7 @@
 </td>
 <td width="40%">
 <div align="center">
-<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate.jpg" width="700" alt="Certificate" />
+<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate1.png" width="700" alt="Certificate" />
 </div>
 </td>
 </tr>
