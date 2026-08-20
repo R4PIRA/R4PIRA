@@ -6,28 +6,19 @@
 
 ---
 
-## 🎯 A little about me
+## 🎯 Немного обо мне
 
 <table>
 <tr>
 <td width="60%">
-ツ I`m a manual QA web engineer.<br>
-ツ I always strive to learn something new and apply the acquired knowledge at work.<br>
-ツ My best soft skills is personal and creative skills.<br>
-ツ I like to solve complex problems and bring the final product to ideal.
-
-</td>
-<td width="40%">
-<div align="center">
-<img src="https://github.com/R4PIRA/R4PIRA/blob/main/assets/certificate1.png" width="700" alt="Certificate" />
-</div>
+ツ Папанова Кристина — сертифицированный специалист по тестированию программного обеспечения | Ручное тестирование и тестирование API | SQL
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Языки и Инструменты
 
 <div align="center">
 
@@ -62,7 +53,17 @@
 
 ---
 
-## 🌍 Languages i speak
+## 📂 Портфолио проектов
+
+<div align="center">
+
+
+
+</div>
+
+---
+
+## 🌍 Языки
 
 <div align="center">
 
@@ -73,12 +74,12 @@
 
 ---
 
-## 📬 We can get in touch here :3
+## 📬 Свяжитесь со мной :3
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-@lemmesl66p-blue?style=for-the-badge&logo=telegram)](https://t.me/lemmesl66p)
-[![Email](https://img.shields.io/badge/Email-lemmesl66p@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lemmesl66p@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kristinapapanovaqa@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kristinapapanovaqa@gmail.com)
 
 </div>
 
