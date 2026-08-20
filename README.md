@@ -57,6 +57,34 @@
 
 <div align="center">
 
+### 🔹 Примеры ручного тестирования
+Пример документации, демонстрирующий:
+- Тест кейсы
+- Тестовые сценарии
+- Баг репорты
+- Критерии принятия
+
+📎 Репозиторий: [manual-testing-examples]()
+
+---
+
+### 🔹 API тестирование – Postman
+Коллекции и среды Postman, содержащие:
+- 
+- 
+- 
+
+📎 Репозиторий: [API-Testing-in-Postman]()
+
+---
+
+### 🔹 Test Documentation
+Examples of QA documentation:
+- Test Plan
+- Test Strategy
+- Test Summary Report
+
+📎 Repository: [test-documentation](https://github.com/MaciejMatch/Test-Documentation)
 
 
 </div>
