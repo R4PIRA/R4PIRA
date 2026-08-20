@@ -89,6 +89,40 @@
 
 ---
 
+## 📄 Резюме и сертификаты
+
+<div>
+
+- [Резюме](https://github.com/R4PIRA/CV-and-certificates/blob/main/Junior%20QA%20Engineer%20Papanova%20Kristina.odt)
+- [Software Testing: Postman for API testing](https://github.com/R4PIRA/CV-and-certificates/blob/main/stepik-certificate-Postman-API.pdf)
+- [Software Testing from scratch: Theory + Practice](https://github.com/R4PIRA/CV-and-certificates/blob/main/stepik-certificate-software-testing.pdf)
+
+📎 Репозиторий: [Резюме и сертификаты](https://github.com/R4PIRA/CV-and-certificates)
+
+</div>
+
+---
+
+## 💼 Опыт работы
+
+<div align="center">
+
+### Менеджер по работе с клиентами — Банк ВТБ
+#### июнь 2025 — июнь 2026
+    • Работала по регламентам и чек-листам обслуживания, контролировала соответствие процессов установленным стандартам
+    • Фиксировала и эскалировала выявленные несоответствия и проблемы, вела отчётность по результатам проверок
+    • Развила внимательность к деталям и навык работы с большим объёмом документации — то, что напрямую переносится в тестирование
+
+### Старший бариста — IL MOTORRE
+#### декабрь 2022 — май 2025
+    • Контролировала качество приготовления напитков и соблюдение стандартов сервиса на смене
+    • Обучала новых сотрудников и проверяла их работу по чек-листам
+    • Разбирала жалобы клиентов: искала первопричину и предлагала решения
+
+</div>
+
+---
+
 ## 📬 Свяжитесь со мной :3
 
 <div align="center">
