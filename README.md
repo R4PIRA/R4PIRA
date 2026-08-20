@@ -55,8 +55,6 @@
 
 ## 📂 Портфолио проектов
 
-<div align="center">
-
 ### 🔹 Примеры ручного тестирования
 Пример документации, демонстрирующий:
 - Тест кейсы
@@ -64,7 +62,7 @@
 - Баг репорты
 - Критерии принятия
 
-📎 Репозиторий: [manual-testing-examples]()
+📎 Репозиторий: [Примеры ручного тестирования](https://github.com/R4PIRA/manual-testing-examples)
 
 ---
 
@@ -74,20 +72,7 @@
 - 
 - 
 
-📎 Репозиторий: [API-Testing-in-Postman]()
-
----
-
-### 🔹 Test Documentation
-Examples of QA documentation:
-- Test Plan
-- Test Strategy
-- Test Summary Report
-
-📎 Repository: [test-documentation](https://github.com/MaciejMatch/Test-Documentation)
-
-
-</div>
+📎 Репозиторий: [API тестирование – Postman]()
 
 ---
 
